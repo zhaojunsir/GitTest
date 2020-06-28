@@ -6,6 +6,7 @@ public class World {
 
 		System.out.println("hello china");
 		System.out.println("第二次提交");
+		System.out.println("本地第一次");
 	}
 
 }
